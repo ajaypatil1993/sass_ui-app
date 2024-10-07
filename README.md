@@ -5,11 +5,13 @@
 ## Screenshots 📸
 
 ### Desktop View:
-![Screenshot 2024-10-07 134711](https://github.com/user-attachments/assets/241dc474-7a66-4306-91ed-44c3f0cda3eb)
-![Screenshot 2024-10-07 133239](https://github.com/user-attachments/assets/1326dbf0-e470-4c3e-83bc-e48d9897d5e1)
+![Screenshot 2024-10-07 134711](https://github.com/user-attachments/assets/53f40630-ca46-4f42-acaf-f1ecdf65903d)
+![Screenshot 2024-10-07 133239](https://github.com/user-attachments/assets/15b8ee88-553e-417e-a6ab-44b284f60a25)
+
 
 ### Mobile View:
-![Screenshot 2024-10-07 133532](https://github.com/user-attachments/assets/10a76904-bc79-4ff2-b491-d080dbe2d186)
+![Screenshot 2024-10-07 133532](https://github.com/user-attachments/assets/df07254d-d927-4e77-ab97-f9e4fe84f065)
+
 
 ## Features ✨
 
@@ -131,7 +133,7 @@ Pixora/
 
 ## Live Preview 🌐
 
-Check out the live version of Pixora at: [Pixora Live](https://sass_ui_app.netlify.app)
+Check out the live version of Pixora at: [Pixora Live](https://sass-ui-app.netlify.app/)
 
 ## Contact 📬
 
